@@ -1,0 +1,26 @@
+
+.cartForm { 
+    text-align: center;
+}
+.cartForm__title {
+    font-size: 2rem;
+    margin: 1rem;
+}
+.cartForm__input, .cartForm__textarea, .cartForm__error {
+    margin: 0.5rem auto;
+    display: block;
+}
+.cartForm__error {
+    color: red;
+    margin-bottom: 1rem;
+}
+.cartForm__button {
+    border: none;
+    background: #008f39;
+    padding: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.5rem;
+    color: white;
+    margin: 1rem;
+}
