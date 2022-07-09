@@ -22,7 +22,7 @@ return new Promise ((resolve)=>{
     }else{
         resolve(objProducto)
     }
-    }, 1000 )
+    }, 3000 )
 });
 };
 

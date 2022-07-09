@@ -122,7 +122,7 @@ return (
                                                 style={{width: '190px', borderRadius:'25px'}} />
                                           
                                           < h4 className="m-3">Nombre {producto.name} </h4>
-                                          < h4 className="m-3"> Unidad  {producto.cantidad}</h4>
+                                          < h4 className="m-3"> Unidades  {producto.cantidad}</h4>
                                           < h4 className="m-3">$ {producto.precio * producto.cantidad}</h4> 
                                   </div>
                                           < button href="/" 
@@ -161,9 +161,9 @@ return (
                                       aria-expanded="true"
                                       aria-controls="panelsStayOpen-collapseTwo"
                                       >
-                                            <button className="btn btn-primary border border-2 position-absolute top-40 start-50 translate-middle">
+                                            <h6 className=" border border-dark border-2 position-absolute top-40 start-50 translate-middle">
                                               Datos del Destinatario
-                                            </button>
+                                            </h6>
                                     </button>
                                   </h2>
                               <div
@@ -198,9 +198,9 @@ return (
                                     aria-expanded="true"
                                     aria-controls="panelsStayOpen-collapseThree"
                                     >
-                                      <button className="btn btn-primary border border-2 position-absolute top-40 start-50 translate-middle">
+                                      <h6 className=" border border-2 border-dark position-absolute top-40 start-50 translate-middle">
                                                   Datos del Facturacion
-                                      </button>
+                                      </h6>
                                   </button>
                                 </h2>
                                 <div

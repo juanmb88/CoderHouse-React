@@ -36,8 +36,8 @@ return (
   <header className='App-header'>
     <h1>Greeting</h1>
        <div>
-            <div >
-              {  loanding  ?  <h1>Cargando...</h1>  :  <ItemList productos={productos}  />  }                   
+            <div>
+              {  loanding  ?  <h1 >Cargando...</h1>  :  <ItemList productos={productos}  />  }                   
             </div>  
       </div>    
     </header>      
