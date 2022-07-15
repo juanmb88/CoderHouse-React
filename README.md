@@ -39,5 +39,11 @@ y se puede continuar para finalizar la compra, completando un formulario, y reto
 ##### ItemListContainer
 ##### Menu-Navegacion
 
+##INSTALACION
+
+``cd ecomerce-balugano``
+
+``npm start``
+
 
 
