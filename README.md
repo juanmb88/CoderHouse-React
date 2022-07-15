@@ -9,12 +9,14 @@ LinkedIn: https://www.linkedin.com/in/juanm-balugano/
 
 Proyecto final para el curso de React.js de CoderHouse. 
 Consiste en un ecommerce implementado con React y las siguientes dependecias
+
 ### `Dependencias`
-#### React Router Dom
-#### React Hooks
-#### React-Bootstrap
-#### Firebase
-#### sweetalert
+#### React-Toastify v9.0.5
+#### React Router Dom  v6.3.0
+#### Bootstrap v5.2.0
+#### React-Bootstrap  v2.4.0
+#### Firebase  v9.8.4
+#### sweetalert v11.4.2
 
 
 ## Descripción de funcionamiento del sitio
