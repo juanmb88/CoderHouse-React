@@ -41,7 +41,11 @@ y se puede continuar para finalizar la compra, completando un formulario, y reto
 
 ## INSTALACION
 
+``git clone https://github.com/juanmb88/CoderHouse-React/``
+
 ``cd ecomerce-balugano``
+
+``npm install``
 
 ``npm start``
 
